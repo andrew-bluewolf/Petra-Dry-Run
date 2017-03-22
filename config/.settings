@@ -1,0 +1,17 @@
+{
+    "projectName": "Petra Dry Run DEV",
+    "username": "petra.andrew.hart@bat.com.dryrundev",
+    "id": "a18fc0d0-0e1e-11e7-9438-69bd4b9f972a",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://cs88.salesforce.com",
+    "workspace": "/Users/andrewhart/Onedrive/Workspaces",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
